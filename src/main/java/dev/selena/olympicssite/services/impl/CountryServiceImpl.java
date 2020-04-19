@@ -4,8 +4,6 @@ import dev.selena.olympicssite.models.Country;
 import dev.selena.olympicssite.repositories.CountryRepository;
 import dev.selena.olympicssite.services.CountryService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
